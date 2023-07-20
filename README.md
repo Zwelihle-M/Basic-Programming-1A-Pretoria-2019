@@ -4,19 +4,19 @@ Programming Foundation
 School:CTU Training Solutions
 Location:Pretoria, Gauteng
 
-# Description:
-During the Programming Foundation we covered the fundamentals of programming using Python, JAVA, HTML 5, C#, and more. In this module, I learned essential concepts, techniques, and processes associated with computer programming and software development.
+Description:
+- During the Programming Foundation we covered the fundamentals of programming using Python, JAVA, HTML 5, C#, and more. In this module, I learned essential concepts, techniques, and processes associated with computer programming and software development.
 
-# Course Topics:
+Course Topics:
 During this course, I covered the following topics:
 
-# Principles of Program Design
-# Computer and Network Architecture
-# Digital Literacy & Proficiency
-# Basic Programming
-# Core Web Development
-# Robotics Development
-# Ethics & Cybernetics
-# Cloud Fundamentals
+ Principles of Program Design
+Computer and Network Architecture
+ Digital Literacy & Proficiency
+Basic Programming
+ Core Web Development
+ Robotics Development
+ Ethics & Cybernetics
+ Cloud Fundamentals
 
 Readmore: https://ctutraining.ac.za/programming-information-2/
